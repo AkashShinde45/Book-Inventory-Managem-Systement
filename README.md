@@ -1,5 +1,5 @@
 <h1>Books Inventory Management System</h1>
-<h3>Hosted Link: https://books-inventory-management.vercel.app/</h3>
+<h3>Hosted Link: https://book-inventory-managem-systement.vercel.app/</h3>
 <h4>Features:</h4>
 <ul>
   <li> <h5> Landing Page/Home Page:</h5>h The landing page serves as the home page of the application
